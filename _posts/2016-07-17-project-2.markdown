@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2016-07-17
+img: aml.png
+alt: image-alt
+project-date: April 2016
+client: AMLFinders Inc.
+category: Financial Technology
+description: I founded my own startup, known as AMLFinders Inc. A technology company specializing in AML software.
+---
