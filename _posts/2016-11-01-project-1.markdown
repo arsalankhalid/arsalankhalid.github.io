@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 1
+date: 2016-11-01
+img: td.png
+alt: image-alt
+project-date: Nov 2016
+client: TD North America
+category: Blockchain
+description: I worked on a Blockchain payments project, one of the first few blockchain related projects in Canada for Accenture.
+The project was primarily an assessment to categorize TD's position on Blockchain, and understand how the bank would use a distributed
+ledger solution for cross-border remittance. In the process I came to learn much about how financial institutions perform payments or
+move money (clearing & settlement). One of the other great benefactors was that I was able to learn more about different distributed ledger
+platforms in the market place, gaining exposure to new FinTech's is always an incredible benefit!
+
+---
