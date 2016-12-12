@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2016-04-01
+img: nephila.png
+alt: image-alt
+project-date: April 2016
+client: Nephila Capital
+category: Security
+description: My team and I at Accenture performed a trading platform security review for Nephila Capital in Bermuda.
+---
